@@ -17,7 +17,8 @@
     "flag": "🇦🇺"
   },
   "dependencies": {
-    "bbot": "1.4.0"
+    "bbot": "1.4.0",
+    "bbot-rasa-nlu": "^0.0.0"
   },
   "devDependencies": {
     "nodemon": "^1.18.3"
